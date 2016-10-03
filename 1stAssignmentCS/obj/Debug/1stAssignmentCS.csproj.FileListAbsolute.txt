@@ -1,0 +1,6 @@
+c:\users\joshua long\Code\1stAssignmentCS\1stAssignmentCS\bin\Debug\1stAssignmentCS.exe.config
+c:\users\joshua long\Code\1stAssignmentCS\1stAssignmentCS\bin\Debug\1stAssignmentCS.exe
+c:\users\joshua long\Code\1stAssignmentCS\1stAssignmentCS\bin\Debug\1stAssignmentCS.pdb
+c:\users\joshua long\Code\1stAssignmentCS\1stAssignmentCS\obj\Debug\1stAssignmentCS.csprojResolveAssemblyReference.cache
+c:\users\joshua long\Code\1stAssignmentCS\1stAssignmentCS\obj\Debug\1stAssignmentCS.exe
+c:\users\joshua long\Code\1stAssignmentCS\1stAssignmentCS\obj\Debug\1stAssignmentCS.pdb
