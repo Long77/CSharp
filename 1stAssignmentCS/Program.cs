@@ -25,7 +25,7 @@ namespace homeworkcs1
 
             Console.WriteLine("Today is {0}.", date);
 
-            Console.WriteLine("I spent {0} on a Cheeseburger.", price);
+            Console.WriteLine("I spent ${0} on a Cheeseburger.", price);
 
             Console.WriteLine("{0} marks the Spot.", letter);
             Console.ReadLine();
